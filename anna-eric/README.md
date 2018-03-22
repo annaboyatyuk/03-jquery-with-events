@@ -19,7 +19,7 @@
 03-21-2018 8:00pm: Added author filter with articles showing and leaving upon selection
 03-21-2018 8:30pm: Show categories filter
 03-21-2018 8:50pm: Tab selection
-03-21-2018 7:15pm: started repo, added data author with jQuery
+03-21-2018 9:15pm: Attached read-on event handler and finished all basic user stories
 
 <!-- Use this are to document the iterative changes made to your application as each feature is successfully implemented. Use time stamps. Here's an examples:
 
