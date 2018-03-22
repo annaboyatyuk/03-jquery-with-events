@@ -15,6 +15,11 @@
 ## Change Log
 
 03-21-2018 7:15pm: started repo, added data author with jQuery
+03-21-2018 7:30pm: Refactored with template literals
+03-21-2018 8:00pm: Added author filter with articles showing and leaving upon selection
+03-21-2018 7:15pm: started repo, added data author with jQuery
+03-21-2018 7:15pm: started repo, added data author with jQuery
+03-21-2018 7:15pm: started repo, added data author with jQuery
 
 <!-- Use this are to document the iterative changes made to your application as each feature is successfully implemented. Use time stamps. Here's an examples:
 
